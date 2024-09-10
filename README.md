@@ -17,6 +17,8 @@
   git commit -m "<pesan commit>"
   git push origin main
   ```
+- Ketika melakukan Pull Request Arahkan Pull-nya khaibar28 branch Nim Masing"
+  
   Note:
   Pesan commit yang dibuat diharapkan sesuai dengan hal yang dilakukan. Seperti "menambah tugas praktikum ..." atau "memperbaiki type di file ..."
 - Setelah perintah tersebut berhasil, silahkan membuka repository hasil fork kalian di github dan lakukan pull request ke repository ini. 
