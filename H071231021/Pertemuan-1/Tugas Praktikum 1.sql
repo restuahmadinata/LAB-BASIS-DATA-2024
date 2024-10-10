@@ -1,4 +1,4 @@
--- NOMOR 1 --
+ -- NOMOR 1 --
 CREATE DATABASE library;
 USE library;
 
